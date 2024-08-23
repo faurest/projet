@@ -1,0 +1,20 @@
+input{
+    size: 10;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+fieldset{
+    font-style: inherit;
+    background-color: lightblue;
+    width: 400px;
+    height: 1000;
+    border-color: mediumblue;
+    background-origin: padding-box;
+    position: static;
+    
+}
+textarea{
+    width: 400;
+    height: 200;
+    background-clip: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
